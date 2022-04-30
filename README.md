@@ -1,7 +1,7 @@
 # Food Review Sentiment Analysis
 A Sentiment Analysis Model of Food Reviews in Bengali Texts Based on Deep Learning techniques
 
-**cite** contains a Tensorflow implementation for our [paper](https://doi.org/10.1109/UEMCON53757.2021.9666550).  If you find this code useful in your research, please consider citing:
+**cite** contains a Tensorflow implementation for our [paper](https://doi.org/10.1109/CCWC54503.2022.9720761).  If you find this code useful in your research, please consider citing:
 
     @inproceedings{junaid2022bangla,
     title={Bangla Food Review Sentimental Analysis using Machine Learning},
